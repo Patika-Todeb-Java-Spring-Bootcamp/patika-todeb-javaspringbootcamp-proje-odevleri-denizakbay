@@ -24,4 +24,4 @@
 5. Admin can approve adverts.
 ```
 ### Design:
-![](../../Desktop/usecaseadvert.png)
+![](usecaseadvert.png)
